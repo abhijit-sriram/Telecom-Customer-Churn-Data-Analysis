@@ -1,4 +1,8 @@
-# Telecommunications Data Analysis using R
+# Telecom Customer Churn Data Analysis
+
+- Analyzed large Telecommunications datasets to identify trends and patterns related to customer behavior.
+- Utilized tidyverse and ggplot library to perform tidying, manipulation, and data visualization in R.
+- Developed and implemented machine learning algorithms like Random Forest, Decision Trees and Logistic Regression to predict the likelihood of customers canceling their service, and using data insights to develop strategies to minimize financial losses.
 
 ## Introduction
 This is an individual assignment and will be a chance for you to perform an applied data science project on a real data set. 
