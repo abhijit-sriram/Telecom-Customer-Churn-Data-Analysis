@@ -110,7 +110,7 @@ The below graph makes it very evident that customers are more likely to disconti
 
 ![image](https://user-images.githubusercontent.com/130720035/235512629-0d507eea-6f0b-4e85-a0cd-f566be8c3da8.png)
 
-# Machine Learning Modeling (75 Points)
+# Machine Learning Modeling 
 In this section of the project, you will fit **three classification algorithms** to predict the response variable,`canceled_service`. You should use all of the other variables in the `telecom_df` data as predictor variables for each model.
 
 You must follow the machine learning steps below. 
